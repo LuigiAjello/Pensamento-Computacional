@@ -1,0 +1,1 @@
+Esse é um projeto inicial de Python para organizar a estrutura de projetos python
